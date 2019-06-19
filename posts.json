@@ -1,0 +1,20 @@
+{ 
+  "data": [ 
+  {
+     "id": 1,
+     "username": "Jelly",
+     "content": "Hello, this is jelly, jelly this is jelly",
+     "profile": "https://i.imgur.com/oabf6Ms.jpg",
+     "location": "Seoul",
+     "image": "https://i.imgur.com/oabf6Ms.jpg"
+  },
+  {
+     "id": 2,
+     "username": "Getogrand",
+     "content": "Hello, this is Getogrand, Getogrand this is Getogrand",
+     "profile": "https://i.imgur.com/lWBxaFv.png",
+     "location": "Seoul",
+     "image": "https://i.imgur.com/lWBxaFv.png"
+  }
+  ]
+}
